@@ -16,7 +16,7 @@
 -Twitter API 
 
 # Requirements:
--Creating a Twitter developer accounts for the following:
+-Creating a Twitter developer account for the following:
 
 •	API key
 
