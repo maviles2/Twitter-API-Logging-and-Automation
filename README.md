@@ -15,6 +15,17 @@
 
 -Twitter API 
 
+# Requirements:
+-Creating a Twitter developer accounts for the following:
+
+•	API key
+
+•	API secret key 
+
+•	Access token
+
+•	Access token secret
+
 # Resource:
 Data Wrangling with Python
 by Jacqueline Kazil, Katharine Jarmul
